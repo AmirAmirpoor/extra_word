@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/extra_word/static/css/main.e40fa2dc.chunk.css",
-    "main.js": "/extra_word/static/js/main.848ac7da.chunk.js",
-    "main.js.map": "/extra_word/static/js/main.848ac7da.chunk.js.map",
-    "runtime-main.js": "/extra_word/static/js/runtime-main.3c3fd103.js",
-    "runtime-main.js.map": "/extra_word/static/js/runtime-main.3c3fd103.js.map",
-    "static/js/2.24292b1c.chunk.js": "/extra_word/static/js/2.24292b1c.chunk.js",
-    "static/js/2.24292b1c.chunk.js.map": "/extra_word/static/js/2.24292b1c.chunk.js.map",
-    "static/js/3.aad381f7.chunk.js": "/extra_word/static/js/3.aad381f7.chunk.js",
-    "static/js/3.aad381f7.chunk.js.map": "/extra_word/static/js/3.aad381f7.chunk.js.map",
-    "index.html": "/extra_word/index.html",
-    "static/css/main.e40fa2dc.chunk.css.map": "/extra_word/static/css/main.e40fa2dc.chunk.css.map",
-    "static/js/2.24292b1c.chunk.js.LICENSE.txt": "/extra_word/static/js/2.24292b1c.chunk.js.LICENSE.txt",
-    "static/media/new_record.c150447b.svg": "/extra_word/static/media/new_record.c150447b.svg",
-    "static/media/no_data.15ad8e97.svg": "/extra_word/static/media/no_data.15ad8e97.svg",
-    "static/media/welcome.668cedad.svg": "/extra_word/static/media/welcome.668cedad.svg"
+    "main.css": "http://AmirAmirpoor.github.io/extra_word/static/css/main.e40fa2dc.chunk.css",
+    "main.js": "http://AmirAmirpoor.github.io/extra_word/static/js/main.0712e156.chunk.js",
+    "main.js.map": "http://AmirAmirpoor.github.io/extra_word/static/js/main.0712e156.chunk.js.map",
+    "runtime-main.js": "http://AmirAmirpoor.github.io/extra_word/static/js/runtime-main.579020a9.js",
+    "runtime-main.js.map": "http://AmirAmirpoor.github.io/extra_word/static/js/runtime-main.579020a9.js.map",
+    "static/js/2.24292b1c.chunk.js": "http://AmirAmirpoor.github.io/extra_word/static/js/2.24292b1c.chunk.js",
+    "static/js/2.24292b1c.chunk.js.map": "http://AmirAmirpoor.github.io/extra_word/static/js/2.24292b1c.chunk.js.map",
+    "static/js/3.aad381f7.chunk.js": "http://AmirAmirpoor.github.io/extra_word/static/js/3.aad381f7.chunk.js",
+    "static/js/3.aad381f7.chunk.js.map": "http://AmirAmirpoor.github.io/extra_word/static/js/3.aad381f7.chunk.js.map",
+    "index.html": "http://AmirAmirpoor.github.io/extra_word/index.html",
+    "static/css/main.e40fa2dc.chunk.css.map": "http://AmirAmirpoor.github.io/extra_word/static/css/main.e40fa2dc.chunk.css.map",
+    "static/js/2.24292b1c.chunk.js.LICENSE.txt": "http://AmirAmirpoor.github.io/extra_word/static/js/2.24292b1c.chunk.js.LICENSE.txt",
+    "static/media/new_record.c150447b.svg": "http://AmirAmirpoor.github.io/extra_word/static/media/new_record.c150447b.svg",
+    "static/media/no_data.15ad8e97.svg": "http://AmirAmirpoor.github.io/extra_word/static/media/no_data.15ad8e97.svg",
+    "static/media/welcome.668cedad.svg": "http://AmirAmirpoor.github.io/extra_word/static/media/welcome.668cedad.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c3fd103.js",
+    "static/js/runtime-main.579020a9.js",
     "static/js/2.24292b1c.chunk.js",
     "static/css/main.e40fa2dc.chunk.css",
-    "static/js/main.848ac7da.chunk.js"
+    "static/js/main.0712e156.chunk.js"
   ]
 }
