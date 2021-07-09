@@ -55,3 +55,14 @@ export const feedTheBoard = () => {
     extraWord,
   };
 };
+
+// HELPER FUNCTIONS TO WORK WITH LOCAL STORAGE
+export const fetchFromLS = (key) => JSON.parse(localStorage.getItem(key));
+
+export const removeFromLS = (key) => {
+  localStorage.removeItem(key);
+};
+
+export const persistToLS = (key, value) => {
+  localStorage.setItem(key, JSON.stringify(value));
+};
