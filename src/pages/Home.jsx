@@ -44,7 +44,11 @@ function Home() {
         onClose={() => setShowHighScores(false)}
       />
 
-      <a href="#" className="repo-link">
+      <a
+        href="https://github.com/AmirAmirpoor/extra_word"
+        target="_blank"
+        className="repo-link"
+      >
         <span>repository link</span>
         <GithubIcon />
       </a>

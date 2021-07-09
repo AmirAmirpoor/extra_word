@@ -34,7 +34,11 @@ function Instructions(props) {
       <p className="mt">Give it a try to see how many points you can get 👊</p>
       <p className="mt">
         Here is the{" "}
-        <a href="#" className="link">
+        <a
+          href="https://github.com/AmirAmirpoor/extra_word"
+          target="_blank"
+          className="link"
+        >
           project repository link
         </a>
         , in case you want to access to the source code, make a PR, or star it
